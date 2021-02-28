@@ -1,10 +1,10 @@
 {
     name: '@electron-forge/publisher-github',
     config: {
-      repository: { https://github.com/Zachinquarantine/Zachinquarantine-Desktop-App/
+      repository: {
         owner: 'Zachinquarantine',
-        name: 'awesome-thing'
+        name: 'Zachinquarantine'
       },
-      prerelease: true
+      prerelease: false
     }
   }
