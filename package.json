@@ -1,5 +1,5 @@
 {
-  "name": "Zachinquarantine",
+  "name": "zachinquarantine",
   "version": "1.0.0",
   "description": "A desktop app about Zachinquarantine.",
   "main": "main.js",
@@ -15,8 +15,8 @@
   "author": "Zachinquarantine",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^11.3.0"
-    "electron-prebuilt-compile": "^8.2.0"
+    "electron": "^11.3.0",
+   "electron-prebuilt-compile": "^8.2.0"
   },
   "dependencies": {
     "electron-forge": "^5.2.4"
